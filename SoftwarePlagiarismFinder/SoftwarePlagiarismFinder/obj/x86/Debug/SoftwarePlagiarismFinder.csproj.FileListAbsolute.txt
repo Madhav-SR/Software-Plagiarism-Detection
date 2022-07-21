@@ -1,0 +1,113 @@
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csprojResolveAssemblyReference.cache
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BinaryResults.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BrowseFiles.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_Results.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Properties.Resources.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csproj.GenerateResource.Cache
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.exe
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.dll
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.exe
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.HomePage.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.MemoryFinder.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c1_BrowseFolders.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_FileComparision.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\PieChart.dll
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\WControls.dll
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\PieChart.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_Packetmonitor.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_result.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Login.resources
+G:\yuvatech 2018\SoftwarePlagiarism\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c3.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.exe
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.exe
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.dll
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\PieChart.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csprojResolveAssemblyReference.cache
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c1_BrowseFolders.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_FileComparision.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_Packetmonitor.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_result.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c3.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.HomePage.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Login.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.MemoryFinder.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BinaryResults.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BrowseFiles.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_Results.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Properties.Resources.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csproj.GenerateResource.Cache
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.exe
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.exe
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.dll
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\PieChart.pdb
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csprojResolveAssemblyReference.cache
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c1_BrowseFolders.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_FileComparision.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_Packetmonitor.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_result.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c3.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.C5.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.HomePage.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Login.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.MemoryFinder.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BinaryResults.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BrowseFiles.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_Results.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Properties.Resources.resources
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csproj.GenerateResource.Cache
+G:\yuvatech 2018\SoftwarePlagiarism\final project\enhancement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c6.resources
+E:\YUVATECH 2019\PROJECT\Jithin\Plagarism Final\enhacement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.exe
+E:\YUVATECH 2019\PROJECT\Jithin\Plagarism Final\enhacement\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.pdb
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.exe
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.pdb
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.exe
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.pdb
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.pdb
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\PieChart.pdb
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c1_BrowseFolders.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_FileComparision.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_Packetmonitor.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_result.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c3.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.C5.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c6.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.HomePage.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Login.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.MemoryFinder.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BinaryResults.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BrowseFiles.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_Results.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Properties.Resources.resources
+E:\YUVATECH 2020\PROJECT\MOUNT ZION\ENHACEMENT\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csproj.GenerateResource.Cache
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.exe
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.pdb
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.exe
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\SoftwarePlagiarismFinder.pdb
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\DifferenceEngine.pdb
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\bin\Debug\PieChart.pdb
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csprojResolveAssemblyReference.cache
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c1_BrowseFolders.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_FileComparision.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_Packetmonitor.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c2_result.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c3.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.C5.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.c6.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.HomePage.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Login.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.MemoryFinder.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BinaryResults.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_BrowseFiles.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.OTO_Results.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.Properties.Resources.resources
+E:\PROJECT\Final Project\SoftwarePlagiarismFinder\SoftwarePlagiarismFinder\obj\x86\Debug\SoftwarePlagiarismFinder.csproj.GenerateResource.Cache

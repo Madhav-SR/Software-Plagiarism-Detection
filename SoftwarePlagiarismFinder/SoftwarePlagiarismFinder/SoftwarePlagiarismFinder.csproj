@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C4812A9F-4DD8-4DF1-8117-AE7AF8C2FF81}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SoftwarePlagiarismFinder</RootNamespace>
+    <AssemblyName>SoftwarePlagiarismFinder</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DifferenceEngine">
+      <HintPath>C:\Users\user\Desktop\DifferenceEngine\bin\Debug\DifferenceEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="PieChart">
+      <HintPath>..\..\..\..\yuvatech 2014\Projects\final\Networking\query aggreation project with enhancement\enhancement\DAserver\DAserver\DAserver\bin\Debug\PieChart.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WControls">
+      <HintPath>..\..\..\..\yuvatech 2014\Projects\final\Networking\query aggreation project with enhancement\enhancement\DAserver\DAserver\DAserver\bin\Debug\WControls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="c1_BrowseFolders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="c1_BrowseFolders.Designer.cs">
+      <DependentUpon>c1_BrowseFolders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="c2_FileComparision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="c2_FileComparision.Designer.cs">
+      <DependentUpon>c2_FileComparision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="c2_Packetmonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="c2_Packetmonitor.Designer.cs">
+      <DependentUpon>c2_Packetmonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="c2_result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="c2_result.Designer.cs">
+      <DependentUpon>c2_result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="c3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="c3.Designer.cs">
+      <DependentUpon>c3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="C5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="C5.Designer.cs">
+      <DependentUpon>C5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="c6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="c6.Designer.cs">
+      <DependentUpon>c6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses.cs" />
+    <Compile Include="DNSHeader.cs" />
+    <Compile Include="GanttChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ipheader.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemoryFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemoryFinder.Designer.cs">
+      <DependentUpon>MemoryFinder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OTO_BinaryResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OTO_BinaryResults.Designer.cs">
+      <DependentUpon>OTO_BinaryResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OTO_BrowseFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OTO_BrowseFiles.Designer.cs">
+      <DependentUpon>OTO_BrowseFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OTO_Results.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OTO_Results.Designer.cs">
+      <DependentUpon>OTO_Results.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Portact.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SystemMeter.cs" />
+    <Compile Include="Tcpheader.cs" />
+    <Compile Include="Udpheader.cs" />
+    <EmbeddedResource Include="c1_BrowseFolders.resx">
+      <DependentUpon>c1_BrowseFolders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="c2_FileComparision.resx">
+      <DependentUpon>c2_FileComparision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="c2_Packetmonitor.resx">
+      <DependentUpon>c2_Packetmonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="c2_result.resx">
+      <DependentUpon>c2_result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="c3.resx">
+      <DependentUpon>c3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="C5.resx">
+      <DependentUpon>C5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="c6.resx">
+      <DependentUpon>c6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemoryFinder.resx">
+      <DependentUpon>MemoryFinder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OTO_BinaryResults.resx">
+      <DependentUpon>OTO_BinaryResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OTO_BrowseFiles.resx">
+      <DependentUpon>OTO_BrowseFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OTO_Results.resx">
+      <DependentUpon>OTO_Results.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-plagiarism copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-plagiarism 1copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-plagiarism 1copy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_document_search_48758.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

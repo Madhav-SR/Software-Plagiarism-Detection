@@ -1,0 +1,60 @@
+
+....................................................................
+
+Comparing file : AssemblyInfo.cs with AssemblyInfo.cs
+
+....................................................................
+
+
+
+NoChange	0	0	2426	
+
+
+Differences between  : AssemblyInfo.cs and AssemblyInfo.cs = 0 numbers
+
+0 numbers means 0 occurences of errors like source addition,deletion,updation etc
+
+Similarity between  : AssemblyInfo.cs and AssemblyInfo.cs = 1 numbers
+
+....................................................................
+
+....................................................................
+....................................................................
+
+Avg cpu usage=22 %
+Avg memory usage=62 %
+Avg memory usage=89 %
+IP Packet count=16
+TCP Packet count=10
+UDP Packet count=6
+DNS Packet count=0
+File Created=0
+File Changed=13
+File Deleted=1
+File Renamed=0
+Birthmark
+....................................................................
+MTQ=
+....................................................................
+....................................................................
+
+Avg cpu usage=15 %
+Avg memory usage=62 %
+Avg memory usage=89 %
+IP Packet count=0
+TCP Packet count=0
+UDP Packet count=0
+DNS Packet count=0
+File Created=0
+File Changed=18
+File Deleted=1
+File Renamed=0
+Birthmark
+....................................................................
+NTM=
+....................................................................
+....................................................................
+
+Process count=184
+Thread Count=5520
+....................................................................
